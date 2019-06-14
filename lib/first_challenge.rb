@@ -57,5 +57,5 @@ contacts.each do |person,data|
 end
 end
 end
-contacts
+return contacts
 end
