@@ -30,9 +30,3 @@
 # end
 
 # practice
-
-
-
-
-
-
